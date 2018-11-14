@@ -245,3 +245,4 @@ def normalize(X):
         else:
            X[:,j] = 0
     return X
+
